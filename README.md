@@ -1,4 +1,5 @@
 Coffee Spot ☕
+
 About the Project
 
 Coffee Spot is a coffee shop website designed to provide visitors with information about our coffee shop, menu, and services.
